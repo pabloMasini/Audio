@@ -1,3 +1,3 @@
-# Software
+# Audio
 
-All kinds of software experiments, from Python scripts to VCV Rack patches.
+All kinds of audio experiments, from Ableton Live Racks to VCV Rack patches.
