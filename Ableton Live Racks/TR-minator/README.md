@@ -4,18 +4,18 @@
 
 Multi stage overdrive device, originally inteded to use with drum machines.
 
-Features:
+### Features:
 - Three overdrive stages.
 - Eq. for drive tonal shape.
 - Reverb creating a fake tail.
 - Overall output level.
 - Four presets ranging from low to high saturation.
 
-Recommended uses:
+### Recommended uses:
 - Entire drum group.
 - Drum subgroups: BD+SD, hats, toms, etc.
 - Synth basses.
 
 
 
-Exploration is encouraged.
+#### Exploration is encouraged.
