@@ -2,7 +2,7 @@
 
 ![Rack image](https://github.com/pabloMasini/Software/blob/main/Ableton%20Live%20Racks/TR-minator/TR-minator-v1.1.jpg)
 
-Multi stage overdrive device, originally inteded to use with drum machines.
+Multi stage overdrive audio effect rack, originally inteded to use with drum machines.
 
 ### Features:
 - Three overdrive stages.
