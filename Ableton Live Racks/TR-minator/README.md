@@ -1,6 +1,6 @@
 # TR-minator
 
-![Rack image](https://github.com/pabloMasini/Software/blob/main/Ableton%20Live%20Racks/TR-minator/TR-minator-v1.2.jpg)
+![Rack image](https://github.com/pabloMasini/Audio/blob/main/Ableton%20Live%20Racks/TR-minator/tr-minator-v1.3.jpg)
 
 Multi stage overdrive audio effect rack, originally intended to use with drum machines. (Live 11 or higher required)
 
